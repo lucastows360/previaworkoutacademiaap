@@ -1,0 +1,2 @@
+Coloque aqui as imagens panorâmicas 360° equirretangulares (proporção 2:1, JPG ou WebP, ideal 8192x4096 ou 6000x3000).
+Depois cadastre cada uma em src/data/siteConfig.ts > panorama.scenes.

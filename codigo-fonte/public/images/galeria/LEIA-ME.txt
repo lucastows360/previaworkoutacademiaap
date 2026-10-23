@@ -1,0 +1,2 @@
+Coloque aqui as fotos reais da academia (WebP ou JPG, ~1600px no lado maior).
+Depois cadastre cada uma em src/data/siteConfig.ts > gallery.
